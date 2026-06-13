@@ -1,6 +1,6 @@
 #include <FastLED.h>
 #include <avr/pgmspace.h>
-#include "video.h" // Include generated data file containing the video
+#include "video_data.h" // Include generated data file containing the video
 #define LED_PIN     12  // Data pin for the LED strip
 #define NUM_LEDS    256  // Number of LEDs in your strip
 #define BRIGHTNESS  16 // Brightness level (0-255)
