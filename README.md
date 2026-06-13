@@ -1,4 +1,4 @@
-#WIP Disregard everything in this README, final version should be done within a month
+# WIP Disregard everything in this README, final version should be done within a month
 # Arduino-LED-Matrix-Design-Tool
 This tool is intended to make designing and displaying images for the WS2812B LED Matrix for Arduino easier.
 
